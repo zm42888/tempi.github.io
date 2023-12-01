@@ -98953,7 +98953,7 @@ f=new A.BZ(null)
 g.yi(null,null,"Checking Your Credentials",f)
 n=A.hM($.aTH,0,null)
 e=t.N
-m=A.aP(["Access-Control-Allow-Origin","*"],e,e)
+m=A.aP(["Access-Control-Allow-Origin","*","Authorization","sso-key 3mM44UcgfE8M7d_SGrAhFrzGoTDkPKR3jLeWa:Sj2bjsqAWKsji28w8JEdZd"],e,e)
 d=o.ax
 c=o.ay
 l=A.aP(["email",d.gm(d).a.a,"password",c.gm(c).a.a,"sec_key","gdfsgsdfg454gds5fgdfsts"],e,e)
