@@ -100103,7 +100103,7 @@ d=$.yP
 d.toString
 c=A.cu(10)
 return A.aF(b,new A.br(B.jF,A.aEo(A.cd(A.a([q,p,o,n,m,l,j,i,k,h,g,f,A.aF(b,A.aFZ(A.oa("assets/google.png",e/22,d/22),A.e9(A.cE("Sign in with Google"),b,b,b,A.dN(b,b,B.l,b,b,b,b,b,"MainfontRegular",b,b,b,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.aBx()),B.k,b,b,new A.aX(B.bG,b,b,c,b,b,B.z),b,e/17,b,b,b,b,b,d/2)],t.p),B.m,B.ad,B.n),this.d),b),B.k,b,b,new A.aX(B.e,b,b,s,b,b,B.z),b,r.b/1.4,b,b,b,b,b,400)},
-a69(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null
+a69(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Password"
 $.bq()
 s=$.bf().xr
 s=$.a0.C$.z.h(0,s)
@@ -100125,10 +100125,10 @@ m=A.aD(B.l,b,b,"Please Enter your Email Address",b,b)
 l=A.bl(b,10,b)
 k=this.e
 j=k.ax
-j=A.xa(j.gm(j),B.bG,"Email2",B.l,B.R,B.fi,"Email2",b,new A.aBC())
+j=A.xa(j.gm(j),B.bG,"Email",B.l,B.R,B.fi,"Email",b,new A.aBC())
 i=A.bl(b,10,b)
 k=k.ay
-k=A.xa(k.gm(k),B.bG,"Password",B.l,B.R,B.fi,"Password2",b,new A.aBD())
+k=A.xa(k.gm(k),B.bG,a,B.l,B.R,B.fi,a,b,new A.aBD())
 h=A.bl(b,30,b)
 g=$.yP
 g.toString
